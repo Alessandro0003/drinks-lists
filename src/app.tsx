@@ -114,7 +114,7 @@ export function App() {
             <TableRow>
               <TableHead></TableHead>
               <TableHead>Tag</TableHead>
-              <TableHead>Amount of videos</TableHead>
+              <TableHead>Amount of Stock</TableHead>
               <TableHead></TableHead>
             </TableRow>
           </TableHeader>
