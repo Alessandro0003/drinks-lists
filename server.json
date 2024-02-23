@@ -1,204 +1,1028 @@
 {
-    "tags": [
-        {"title": "Jack Daniel'S", "amountOfStock": 142},
-        {"title": "Royal Salute", "amountOfStock": 87},
-        {"title": "Mai Tai", "amountOfStock": 205},
-        {"title": "Martini", "amountOfStock": 64},
-        {"title": "Margarita", "amountOfStock": 128},
-        {"title": "Negroni", "amountOfStock": 93},
-        {"title": "Bloody Mary", "amountOfStock": 76},
-        {"title": "Gin and Tonic", "amountOfStock": 112},
-        {"title": "Old Fashioned", "amountOfStock": 45},
-        {"title": "Cosmopolitan", "amountOfStock": 98},
-        {"title": "Rum Punch", "amountOfStock": 123},   
-        {"title": "Vodka", "amountOfStock": 156},
-        {"title": "Gin", "amountOfStock": 156},
-        {"title": "Rum", "amountOfStock": 156},
-        {"title": "Tequila", "amountOfStock": 156},
-        {"title": "Whisky", "amountOfStock": 156},
-        {"title": "Cachaça", "amountOfStock": 156},
-        {"title": "SAbsinto", "amountOfStock": 156},
-        {"title": "Vermute", "amountOfStock": 156},
-        {"title": "Brandy", "amountOfStock": 156},
-        {"title": "Jack Daniel'S", "amountOfStock": 142},
-        {"title": "Whisky Sour", "amountOfStock": 87},
-        {"title": "Mai Tai", "amountOfStock": 205},
-        {"title": "Martini", "amountOfStock": 64},
-        {"title": "Margarita", "amountOfStock": 128},
-        {"title": "Negroni", "amountOfStock": 93},
-        {"title": "Bloody Mary", "amountOfStock": 76},
-        {"title": "Gin and Tonic", "amountOfStock": 112},
-        {"title": "Old Fashioned", "amountOfStock": 45},
-        {"title": "Cosmopolitan", "amountOfStock": 98},
-        {"title": "Rum Punch", "amountOfStock": 123},   
-        {"title": "Sazerac", "amountOfStock": 156},
-        {"title": "Conhaque", "amountOfStock": 156},
-        {"title": "Licor de café", "amountOfStock": 156},
-        {"title": "Sazerac", "amountOfStock": 156},
-        {"title": "Licor de laranja", "amountOfStock": 156},
-        {"title": "Sambuca", "amountOfStock": 156},
-        {"title": "Sazerac", "amountOfStock": 156},
-        {"title": "Sazerac", "amountOfStock": 156},
-        {"title": "Grappa", "amountOfStock": 156},
-        {"title": "Jack Daniel'S", "amountOfStock": 142},
-        {"title": "Whisky Sour", "amountOfStock": 87},
-        {"title": "Mai Tai", "amountOfStock": 205},
-        {"title": "Martini", "amountOfStock": 64},
-        {"title": "Margarita", "amountOfStock": 128},
-        {"title": "Negroni", "amountOfStock": 93},
-        {"title": "Bloody Mary", "amountOfStock": 76},
-        {"title": "Gin and Tonic", "amountOfStock": 112},
-        {"title": "Old Fashioned", "amountOfStock": 45},
-        {"title": "Cosmopolitan", "amountOfStock": 98},
-        {"title": "Rum Punch", "amountOfStock": 123},   
-        {"title": "Sazerac", "amountOfStock": 156},
-        {"title": "Sazerac", "amountOfStock": 156},
-        {"title": "Black Label", "amountOfStock": 156},
-        {"title": "Ballantine's Whisky Finest Blended", "amountOfStock": 156},
-        {"title": "Sazerac", "amountOfStock": 156},
-        {"title": "Whisky Johnnie Walker Green Label", "amountOfStock": 156},
-        {"title": "Sazerac", "amountOfStock": 156},
-        {"title": "Whisky Johnnie Walker Blue Label", "amountOfStock": 156},
-        {"title": "Sazerac", "amountOfStock": 156},
-        {"title": "Jack Daniel'S", "amountOfStock": 142},
-        {"title": "Whisky Sour", "amountOfStock": 87},
-        {"title": "Mai Tai", "amountOfStock": 205},
-        {"title": "Martini", "amountOfStock": 64},
-        {"title": "Margarita", "amountOfStock": 128},
-        {"title": "Negroni", "amountOfStock": 93},
-        {"title": "Bloody Mary", "amountOfStock": 76},
-        {"title": "Gin and Tonic", "amountOfStock": 112},
-        {"title": "Old Fashioned", "amountOfStock": 45},
-        {"title": "Cosmopolitan", "amountOfStock": 98},
-        {"title": "Rum Punch", "amountOfStock": 123},   
-        {"title": "Chivas regal 12 anos", "amountOfStock": 156},
-        {"title": "Sazerac", "amountOfStock": 156},
-        {"title": "Sazerac", "amountOfStock": 156},
-        {"title": "Chivas regal 18 anos", "amountOfStock": 156},
-        {"title": "Sazerac", "amountOfStock": 156},
-        {"title": "Whisky Fireball Canela", "amountOfStock": 156},
-        {"title": "Sazerac", "amountOfStock": 156},
-        {"title": "Red Label", "amountOfStock": 156},
-        {"title": "Sazerac", "amountOfStock": 156},
-        {"title": "Jack Daniel'S", "amountOfStock": 142},
-        {"title": "Whisky Sour", "amountOfStock": 87},
-        {"title": "Mai Tai", "amountOfStock": 205},
-        {"title": "Martini", "amountOfStock": 64},
-        {"title": "Margarita", "amountOfStock": 128},
-        {"title": "Negroni", "amountOfStock": 93},
-        {"title": "Bloody Mary", "amountOfStock": 76},
-        {"title": "Gin and Tonic", "amountOfStock": 112},
-        {"title": "Old Fashioned", "amountOfStock": 45},
-        {"title": "Cosmopolitan", "amountOfStock": 98},
-        {"title": "Rum Punch", "amountOfStock": 123},   
-        {"title": "Irish Whiskey:", "amountOfStock": 156},
-        {"title": "Sazerac", "amountOfStock": 156},
-        {"title": "Japanese Whisky", "amountOfStock": 156},
-        {"title": "Canadian Whisky", "amountOfStock": 156},
-        {"title": "Sazerac", "amountOfStock": 156},
-        {"title": "Rye Whiskey", "amountOfStock": 156},
-        {"title": "Canadian Whisky  ", "amountOfStock": 156},
-        {"title": "Bourbon", "amountOfStock": 156},
-        {"title": "Sazerac", "amountOfStock": 156},
-        {"title": "Jack Daniel'S", "amountOfStock": 142},
-        {"title": "Whisky Sour", "amountOfStock": 87},
-        {"title": "Mai Tai", "amountOfStock": 205},
-        {"title": "Martini", "amountOfStock": 64},
-        {"title": "Margarita", "amountOfStock": 128},
-        {"title": "Negroni", "amountOfStock": 93},
-        {"title": "Bloody Mary", "amountOfStock": 76},
-        {"title": "Gin and Tonic", "amountOfStock": 112},
-        {"title": "Old Fashioned", "amountOfStock": 45},
-        {"title": "Cosmopolitan", "amountOfStock": 98},
-        {"title": "Rum Punch", "amountOfStock": 123},   
-        {"title": "Irish Whiskey", "amountOfStock": 156},
-        {"title": "Aguardente de cereja", "amountOfStock": 156},
-        {"title": "Pisco", "amountOfStock": 156},
-        {"title": "Rye Whiskey", "amountOfStock": 156},
-        {"title": "Royal Salute", "amountOfStock": 156},
-        {"title": "Licor 43", "amountOfStock": 156},
-        {"title": "Aguardente de framboesa", "amountOfStock": 156},
-        {"title": "Scotch Whisky", "amountOfStock": 156},
-        {"title": "Aguardente de maçã", "amountOfStock": 156},
-        {"title": "Jack Daniel'S", "amountOfStock": 142},
-        {"title": "Whisky Sour", "amountOfStock": 87},
-        {"title": "Mai Tai", "amountOfStock": 205},
-        {"title": "Martini", "amountOfStock": 64},
-        {"title": "Margarita", "amountOfStock": 128},
-        {"title": "Negroni", "amountOfStock": 93},
-        {"title": "Bloody Mary", "amountOfStock": 76},
-        {"title": "Gin and Tonic", "amountOfStock": 112},
-        {"title": "Old Fashioned", "amountOfStock": 45},
-        {"title": "Cosmopolitan", "amountOfStock": 98},
-        {"title": "Rum Punch", "amountOfStock": 123},   
-        {"title": "Vodka", "amountOfStock": 156},
-        {"title": "Gin", "amountOfStock": 156},
-        {"title": "Rum", "amountOfStock": 156},
-        {"title": "Tequila", "amountOfStock": 156},
-        {"title": "Whisky", "amountOfStock": 156},
-        {"title": "Cachaça", "amountOfStock": 156},
-        {"title": "SAbsinto", "amountOfStock": 156},
-        {"title": "Vermute", "amountOfStock": 156},
-        {"title": "Brandy", "amountOfStock": 156},
-        {"title": "Jack Daniel'S", "amountOfStock": 142},
-        {"title": "Whisky Sour", "amountOfStock": 87},
-        {"title": "Mai Tai", "amountOfStock": 205},
-        {"title": "Martini", "amountOfStock": 64},
-        {"title": "Margarita", "amountOfStock": 128},
-        {"title": "Negroni", "amountOfStock": 93},
-        {"title": "Bloody Mary", "amountOfStock": 76},
-        {"title": "Gin and Tonic", "amountOfStock": 112},
-        {"title": "Old Fashioned", "amountOfStock": 45},
-        {"title": "Cosmopolitan", "amountOfStock": 98},
-        {"title": "Rum Punch", "amountOfStock": 123},   
-        {"title": "Sazerac", "amountOfStock": 156},
-        {"title": "Conhaque", "amountOfStock": 156},
-        {"title": "Licor de café", "amountOfStock": 156},
-        {"title": "Sazerac", "amountOfStock": 156},
-        {"title": "Licor de laranja", "amountOfStock": 156},
-        {"title": "Sambuca", "amountOfStock": 156},
-        {"title": "Sazerac", "amountOfStock": 156},
-        {"title": "Sazerac", "amountOfStock": 156},
-        {"title": "Grappa", "amountOfStock": 156},
-        {"title": "Jack Daniel'S", "amountOfStock": 142},
-        {"title": "Whisky Sour", "amountOfStock": 87},
-        {"title": "Mai Tai", "amountOfStock": 205},
-        {"title": "Martini", "amountOfStock": 64},
-        {"title": "Margarita", "amountOfStock": 128},
-        {"title": "Negroni", "amountOfStock": 93},
-        {"title": "Bloody Mary", "amountOfStock": 76},
-        {"title": "Gin and Tonic", "amountOfStock": 112},
-        {"title": "Old Fashioned", "amountOfStock": 45},
-        {"title": "Cosmopolitan", "amountOfStock": 98},
-        {"title": "Rum Punch", "amountOfStock": 123},   
-        {"title": "Sazerac", "amountOfStock": 156},
-        {"title": "Sazerac", "amountOfStock": 156},
-        {"title": "Black Label", "amountOfStock": 156},
-        {"title": "Ballantine's Whisky Finest Blended", "amountOfStock": 156},
-        {"title": "Sazerac", "amountOfStock": 156},
-        {"title": "Whisky Johnnie Walker Green Label", "amountOfStock": 156},
-        {"title": "Sazerac", "amountOfStock": 156},
-        {"title": "Whisky Johnnie Walker Blue Label", "amountOfStock": 156},
-        {"title": "Sazerac", "amountOfStock": 156},
-        {"title": "Jack Daniel'S", "amountOfStock": 142},
-        {"title": "Whisky Sour", "amountOfStock": 87},
-        {"title": "Mai Tai", "amountOfStock": 205},
-        {"title": "Martini", "amountOfStock": 64},
-        {"title": "Margarita", "amountOfStock": 128},
-        {"title": "Negroni", "amountOfStock": 93},
-        {"title": "Bloody Mary", "amountOfStock": 76},
-        {"title": "Gin and Tonic", "amountOfStock": 112},
-        {"title": "Old Fashioned", "amountOfStock": 45},
-        {"title": "Cosmopolitan", "amountOfStock": 98},
-        {"title": "Rum Punch", "amountOfStock": 123},   
-        {"title": "Chivas regal 12 anos", "amountOfStock": 156},
-        {"title": "Sazerac", "amountOfStock": 156},
-        {"title": "Sazerac", "amountOfStock": 156},
-        {"title": "Chivas regal 18 anos", "amountOfStock": 156},
-        {"title": "Sazerac", "amountOfStock": 156},
-        {"title": "Whisky Fireball Canela", "amountOfStock": 156},
-        {"title": "Sazerac", "amountOfStock": 156},
-        {"title": "Red Label", "amountOfStock": 156},
-        {"title": "Red Label", "amountOfStock": 156}
-    ]
+  "tags": [
+    {
+      "title": "Jack Daniel'S",
+      "slug": "old",
+      "amountOfStock": 142
+    },
+    {
+      "title": "Royal Salute",
+      "slug": "old",
+      "amountOfStock": 87
+    },
+    {
+      "title": "Mai Tai",
+      "slug": "old",
+      "amountOfStock": 205
+    },
+    {
+      "title": "Martini",
+      "slug": "old",
+      "amountOfStock": 64
+    },
+    {
+      "title": "Margarita",
+      "slug": "old",
+      "amountOfStock": 128
+    },
+    {
+      "title": "Negroni",
+      "slug": "old",
+      "amountOfStock": 93
+    },
+    {
+      "title": "Bloody Mary",
+      "slug": "old",
+      "amountOfStock": 76
+    },
+    {
+      "title": "Gin and Tonic",
+      "slug": "old",
+      "amountOfStock": 112
+    },
+    {
+      "title": "Old Fashioned",
+      "slug": "old",
+      "amountOfStock": 45
+    },
+    {
+      "title": "Cosmopolitan",
+      "slug": "old",
+      "amountOfStock": 98
+    },
+    {
+      "title": "Rum Punch",
+      "slug": "old",
+      "amountOfStock": 123
+    },
+    {
+      "title": "Vodka",
+      "slug": "old",
+      "amountOfStock": 156
+    },
+    {
+      "title": "Gin",
+      "slug": "old",
+      "amountOfStock": 156
+    },
+    {
+      "title": "Rum",
+      "slug": "old",
+      "amountOfStock": 156
+    },
+    {
+      "title": "Tequila",
+      "slug": "old",
+      "amountOfStock": 156
+    },
+    {
+      "title": "Whisky",
+      "slug": "old",
+      "amountOfStock": 156
+    },
+    {
+      "title": "Cachaça",
+      "slug": "old",
+      "amountOfStock": 156
+    },
+    {
+      "title": "SAbsinto",
+      "slug": "old",
+      "amountOfStock": 156
+    },
+    {
+      "title": "Vermute",
+      "slug": "old",
+      "amountOfStock": 156
+    },
+    {
+      "title": "Brandy",
+      "slug": "old",
+      "amountOfStock": 156
+    },
+    {
+      "title": "Jack Daniel'S",
+      "slug": "old",
+      "amountOfStock": 142
+    },
+    {
+      "title": "Whisky Sour",
+      "slug": "old",
+      "amountOfStock": 87
+    },
+    {
+      "title": "Mai Tai",
+      "slug": "old",
+      "amountOfStock": 205
+    },
+    {
+      "title": "Martini",
+      "slug": "old",
+      "amountOfStock": 64
+    },
+    {
+      "title": "Margarita",
+      "slug": "old",
+      "amountOfStock": 128
+    },
+    {
+      "title": "Negroni",
+      "slug": "old",
+      "amountOfStock": 93
+    },
+    {
+      "title": "Bloody Mary",
+      "slug": "old",
+      "amountOfStock": 76
+    },
+    {
+      "title": "Gin and Tonic",
+      "slug": "old",
+      "amountOfStock": 112
+    },
+    {
+      "title": "Old Fashioned",
+      "slug": "old",
+      "amountOfStock": 45
+    },
+    {
+      "title": "Cosmopolitan",
+      "slug": "old",
+      "amountOfStock": 98
+    },
+    {
+      "title": "Rum Punch",
+      "slug": "old",
+      "amountOfStock": 123
+    },
+    {
+      "title": "Sazerac",
+      "slug": "old",
+      "amountOfStock": 156
+    },
+    {
+      "title": "Conhaque",
+      "slug": "old",
+      "amountOfStock": 156
+    },
+    {
+      "title": "Licor de café",
+      "slug": "old",
+      "amountOfStock": 156
+    },
+    {
+      "title": "Sazerac",
+      "slug": "old",
+      "amountOfStock": 156
+    },
+    {
+      "title": "Licor de laranja",
+      "slug": "old",
+      "amountOfStock": 156
+    },
+    {
+      "title": "Sambuca",
+      "slug": "old",
+      "amountOfStock": 156
+    },
+    {
+      "title": "Sazerac",
+      "slug": "old",
+      "amountOfStock": 156
+    },
+    {
+      "title": "Sazerac",
+      "slug": "old",
+      "amountOfStock": 156
+    },
+    {
+      "title": "Grappa",
+      "slug": "old",
+      "amountOfStock": 156
+    },
+    {
+      "title": "Jack Daniel'S",
+      "slug": "old",
+      "amountOfStock": 142
+    },
+    {
+      "title": "Whisky Sour",
+      "slug": "old",
+      "amountOfStock": 87
+    },
+    {
+      "title": "Mai Tai",
+      "slug": "old",
+      "amountOfStock": 205
+    },
+    {
+      "title": "Martini",
+      "slug": "old",
+      "amountOfStock": 64
+    },
+    {
+      "title": "Margarita",
+      "slug": "old",
+      "amountOfStock": 128
+    },
+    {
+      "title": "Negroni",
+      "slug": "old",
+      "amountOfStock": 93
+    },
+    {
+      "title": "Bloody Mary",
+      "slug": "old",
+      "amountOfStock": 76
+    },
+    {
+      "title": "Gin and Tonic",
+      "slug": "old",
+      "amountOfStock": 112
+    },
+    {
+      "title": "Old Fashioned",
+      "slug": "old",
+      "amountOfStock": 45
+    },
+    {
+      "title": "Cosmopolitan",
+      "slug": "old",
+      "amountOfStock": 98
+    },
+    {
+      "title": "Rum Punch",
+      "slug": "old",
+      "amountOfStock": 123
+    },
+    {
+      "title": "Sazerac",
+      "slug": "old",
+      "amountOfStock": 156
+    },
+    {
+      "title": "Sazerac",
+      "slug": "old",
+      "amountOfStock": 156
+    },
+    {
+      "title": "Black Label",
+      "slug": "old",
+      "amountOfStock": 156
+    },
+    {
+      "title": "Ballantine's Whisky Finest Blended",
+      "slug": "old",
+      "amountOfStock": 156
+    },
+    {
+      "title": "Sazerac",
+      "slug": "old",
+      "amountOfStock": 156
+    },
+    {
+      "title": "Whisky Johnnie Walker Green Label",
+      "slug": "old",
+      "amountOfStock": 156
+    },
+    {
+      "title": "Sazerac",
+      "slug": "old",
+      "amountOfStock": 156
+    },
+    {
+      "title": "Whisky Johnnie Walker Blue Label",
+      "slug": "old",
+      "amountOfStock": 156
+    },
+    {
+      "title": "Sazerac",
+      "slug": "old",
+      "amountOfStock": 156
+    },
+    {
+      "title": "Jack Daniel'S",
+      "slug": "old",
+      "amountOfStock": 142
+    },
+    {
+      "title": "Whisky Sour",
+      "slug": "old",
+      "amountOfStock": 87
+    },
+    {
+      "title": "Mai Tai",
+      "slug": "old",
+      "amountOfStock": 205
+    },
+    {
+      "title": "Martini",
+      "slug": "old",
+      "amountOfStock": 64
+    },
+    {
+      "title": "Margarita",
+      "slug": "old",
+      "amountOfStock": 128
+    },
+    {
+      "title": "Negroni",
+      "slug": "old",
+      "amountOfStock": 93
+    },
+    {
+      "title": "Bloody Mary",
+      "slug": "old",
+      "amountOfStock": 76
+    },
+    {
+      "title": "Gin and Tonic",
+      "slug": "old",
+      "amountOfStock": 112
+    },
+    {
+      "title": "Old Fashioned",
+      "slug": "old",
+      "amountOfStock": 45
+    },
+    {
+      "title": "Cosmopolitan",
+      "slug": "old",
+      "amountOfStock": 98
+    },
+    {
+      "title": "Rum Punch",
+      "slug": "old",
+      "amountOfStock": 123
+    },
+    {
+      "title": "Chivas regal 12 anos",
+      "slug": "old",
+      "amountOfStock": 156
+    },
+    {
+      "title": "Sazerac",
+      "slug": "old",
+      "amountOfStock": 156
+    },
+    {
+      "title": "Sazerac",
+      "slug": "old",
+      "amountOfStock": 156
+    },
+    {
+      "title": "Chivas regal 18 anos",
+      "slug": "old",
+      "amountOfStock": 156
+    },
+    {
+      "title": "Sazerac",
+      "slug": "old",
+      "amountOfStock": 156
+    },
+    {
+      "title": "Whisky Fireball Canela",
+      "slug": "old",
+      "amountOfStock": 156
+    },
+    {
+      "title": "Sazerac",
+      "slug": "old",
+      "amountOfStock": 156
+    },
+    {
+      "title": "Red Label",
+      "slug": "old",
+      "amountOfStock": 156
+    },
+    {
+      "title": "Sazerac",
+      "slug": "old",
+      "amountOfStock": 156
+    },
+    {
+      "title": "Jack Daniel'S",
+      "slug": "old",
+      "amountOfStock": 142
+    },
+    {
+      "title": "Whisky Sour",
+      "slug": "old",
+      "amountOfStock": 87
+    },
+    {
+      "title": "Mai Tai",
+      "slug": "old",
+      "amountOfStock": 205
+    },
+    {
+      "title": "Martini",
+      "slug": "old",
+      "amountOfStock": 64
+    },
+    {
+      "title": "Margarita",
+      "slug": "old",
+      "amountOfStock": 128
+    },
+    {
+      "title": "Negroni",
+      "slug": "old",
+      "amountOfStock": 93
+    },
+    {
+      "title": "Bloody Mary",
+      "slug": "old",
+      "amountOfStock": 76
+    },
+    {
+      "title": "Gin and Tonic",
+      "slug": "old",
+      "amountOfStock": 112
+    },
+    {
+      "title": "Old Fashioned",
+      "slug": "old",
+      "amountOfStock": 45
+    },
+    {
+      "title": "Cosmopolitan",
+      "slug": "old",
+      "amountOfStock": 98
+    },
+    {
+      "title": "Rum Punch",
+      "slug": "old",
+      "amountOfStock": 123
+    },
+    {
+      "title": "Irish Whiskey:",
+      "slug": "old",
+      "amountOfStock": 156
+    },
+    {
+      "title": "Sazerac",
+      "slug": "old",
+      "amountOfStock": 156
+    },
+    {
+      "title": "Japanese Whisky",
+      "slug": "old",
+      "amountOfStock": 156
+    },
+    {
+      "title": "Canadian Whisky",
+      "slug": "old",
+      "amountOfStock": 156
+    },
+    {
+      "title": "Sazerac",
+      "slug": "old",
+      "amountOfStock": 156
+    },
+    {
+      "title": "Rye Whiskey",
+      "slug": "old",
+      "amountOfStock": 156
+    },
+    {
+      "title": "Canadian Whisky  ",
+      "slug": "old",
+      "amountOfStock": 156
+    },
+    {
+      "title": "Bourbon",
+      "slug": "old",
+      "amountOfStock": 156
+    },
+    {
+      "title": "Sazerac",
+      "slug": "old",
+      "amountOfStock": 156
+    },
+    {
+      "title": "Jack Daniel'S",
+      "slug": "old",
+      "amountOfStock": 142
+    },
+    {
+      "title": "Whisky Sour",
+      "slug": "old",
+      "amountOfStock": 87
+    },
+    {
+      "title": "Mai Tai",
+      "slug": "old",
+      "amountOfStock": 205
+    },
+    {
+      "title": "Martini",
+      "slug": "old",
+      "amountOfStock": 64
+    },
+    {
+      "title": "Margarita",
+      "slug": "old",
+      "amountOfStock": 128
+    },
+    {
+      "title": "Negroni",
+      "slug": "old",
+      "amountOfStock": 93
+    },
+    {
+      "title": "Bloody Mary",
+      "slug": "old",
+      "amountOfStock": 76
+    },
+    {
+      "title": "Gin and Tonic",
+      "slug": "old",
+      "amountOfStock": 112
+    },
+    {
+      "title": "Old Fashioned",
+      "slug": "old",
+      "amountOfStock": 45
+    },
+    {
+      "title": "Cosmopolitan",
+      "slug": "old",
+      "amountOfStock": 98
+    },
+    {
+      "title": "Rum Punch",
+      "slug": "old",
+      "amountOfStock": 123
+    },
+    {
+      "title": "Irish Whiskey",
+      "slug": "old",
+      "amountOfStock": 156
+    },
+    {
+      "title": "Aguardente de cereja",
+      "slug": "old",
+      "amountOfStock": 156
+    },
+    {
+      "title": "Pisco",
+      "slug": "old",
+      "amountOfStock": 156
+    },
+    {
+      "title": "Rye Whiskey",
+      "slug": "old",
+      "amountOfStock": 156
+    },
+    {
+      "title": "Royal Salute",
+      "slug": "old",
+      "amountOfStock": 156
+    },
+    {
+      "title": "Licor 43",
+      "slug": "old",
+      "amountOfStock": 156
+    },
+    {
+      "title": "Aguardente de framboesa",
+      "slug": "old",
+      "amountOfStock": 156
+    },
+    {
+      "title": "Scotch Whisky",
+      "slug": "old",
+      "amountOfStock": 156
+    },
+    {
+      "title": "Aguardente de maçã",
+      "slug": "old",
+      "amountOfStock": 156
+    },
+    {
+      "title": "Jack Daniel'S",
+      "slug": "old",
+      "amountOfStock": 142
+    },
+    {
+      "title": "Whisky Sour",
+      "slug": "old",
+      "amountOfStock": 87
+    },
+    {
+      "title": "Mai Tai",
+      "slug": "old",
+      "amountOfStock": 205
+    },
+    {
+      "title": "Martini",
+      "slug": "old",
+      "amountOfStock": 64
+    },
+    {
+      "title": "Margarita",
+      "slug": "old",
+      "amountOfStock": 128
+    },
+    {
+      "title": "Negroni",
+      "slug": "old",
+      "amountOfStock": 93
+    },
+    {
+      "title": "Bloody Mary",
+      "slug": "old",
+      "amountOfStock": 76
+    },
+    {
+      "title": "Gin and Tonic",
+      "slug": "old",
+      "amountOfStock": 112
+    },
+    {
+      "title": "Old Fashioned",
+      "slug": "old",
+      "amountOfStock": 45
+    },
+    {
+      "title": "Cosmopolitan",
+      "slug": "old",
+      "amountOfStock": 98
+    },
+    {
+      "title": "Rum Punch",
+      "slug": "old",
+      "amountOfStock": 123
+    },
+    {
+      "title": "Vodka",
+      "slug": "old",
+      "amountOfStock": 156
+    },
+    {
+      "title": "Gin",
+      "slug": "old",
+      "amountOfStock": 156
+    },
+    {
+      "title": "Rum",
+      "slug": "old",
+      "amountOfStock": 156
+    },
+    {
+      "title": "Tequila",
+      "slug": "old",
+      "amountOfStock": 156
+    },
+    {
+      "title": "Whisky",
+      "slug": "old",
+      "amountOfStock": 156
+    },
+    {
+      "title": "Cachaça",
+      "slug": "old",
+      "amountOfStock": 156
+    },
+    {
+      "title": "SAbsinto",
+      "slug": "old",
+      "amountOfStock": 156
+    },
+    {
+      "title": "Vermute",
+      "slug": "old",
+      "amountOfStock": 156
+    },
+    {
+      "title": "Brandy",
+      "slug": "old",
+      "amountOfStock": 156
+    },
+    {
+      "title": "Jack Daniel'S",
+      "slug": "old",
+      "amountOfStock": 142
+    },
+    {
+      "title": "Whisky Sour",
+      "slug": "old",
+      "amountOfStock": 87
+    },
+    {
+      "title": "Mai Tai",
+      "slug": "old",
+      "amountOfStock": 205
+    },
+    {
+      "title": "Martini",
+      "slug": "old",
+      "amountOfStock": 64
+    },
+    {
+      "title": "Margarita",
+      "slug": "old",
+      "amountOfStock": 128
+    },
+    {
+      "title": "Negroni",
+      "slug": "old",
+      "amountOfStock": 93
+    },
+    {
+      "title": "Bloody Mary",
+      "slug": "old",
+      "amountOfStock": 76
+    },
+    {
+      "title": "Gin and Tonic",
+      "slug": "old",
+      "amountOfStock": 112
+    },
+    {
+      "title": "Old Fashioned",
+      "slug": "old",
+      "amountOfStock": 45
+    },
+    {
+      "title": "Cosmopolitan",
+      "slug": "old",
+      "amountOfStock": 98
+    },
+    {
+      "title": "Rum Punch",
+      "slug": "old",
+      "amountOfStock": 123
+    },
+    {
+      "title": "Sazerac",
+      "slug": "old",
+      "amountOfStock": 156
+    },
+    {
+      "title": "Conhaque",
+      "slug": "old",
+      "amountOfStock": 156
+    },
+    {
+      "title": "Licor de café",
+      "slug": "old",
+      "amountOfStock": 156
+    },
+    {
+      "title": "Sazerac",
+      "slug": "old",
+      "amountOfStock": 156
+    },
+    {
+      "title": "Licor de laranja",
+      "slug": "old",
+      "amountOfStock": 156
+    },
+    {
+      "title": "Sambuca",
+      "slug": "old",
+      "amountOfStock": 156
+    },
+    {
+      "title": "Sazerac",
+      "slug": "old",
+      "amountOfStock": 156
+    },
+    {
+      "title": "Sazerac",
+      "slug": "old",
+      "amountOfStock": 156
+    },
+    {
+      "title": "Grappa",
+      "slug": "old",
+      "amountOfStock": 156
+    },
+    {
+      "title": "Jack Daniel'S",
+      "slug": "old",
+      "amountOfStock": 142
+    },
+    {
+      "title": "Whisky Sour",
+      "slug": "old",
+      "amountOfStock": 87
+    },
+    {
+      "title": "Mai Tai",
+      "slug": "old",
+      "amountOfStock": 205
+    },
+    {
+      "title": "Martini",
+      "slug": "old",
+      "amountOfStock": 64
+    },
+    {
+      "title": "Margarita",
+      "slug": "old",
+      "amountOfStock": 128
+    },
+    {
+      "title": "Negroni",
+      "slug": "old",
+      "amountOfStock": 93
+    },
+    {
+      "title": "Bloody Mary",
+      "slug": "old",
+      "amountOfStock": 76
+    },
+    {
+      "title": "Gin and Tonic",
+      "slug": "old",
+      "amountOfStock": 112
+    },
+    {
+      "title": "Old Fashioned",
+      "slug": "old",
+      "amountOfStock": 45
+    },
+    {
+      "title": "Cosmopolitan",
+      "slug": "old",
+      "amountOfStock": 98
+    },
+    {
+      "title": "Rum Punch",
+      "slug": "old",
+      "amountOfStock": 123
+    },
+    {
+      "title": "Sazerac",
+      "slug": "old",
+      "amountOfStock": 156
+    },
+    {
+      "title": "Sazerac",
+      "slug": "old",
+      "amountOfStock": 156
+    },
+    {
+      "title": "Black Label",
+      "slug": "old",
+      "amountOfStock": 156
+    },
+    {
+      "title": "Ballantine's Whisky Finest Blended",
+      "slug": "old",
+      "amountOfStock": 156
+    },
+    {
+      "title": "Sazerac",
+      "slug": "old",
+      "amountOfStock": 156
+    },
+    {
+      "title": "Whisky Johnnie Walker Green Label",
+      "slug": "old",
+      "amountOfStock": 156
+    },
+    {
+      "title": "Sazerac",
+      "slug": "old",
+      "amountOfStock": 156
+    },
+    {
+      "title": "Whisky Johnnie Walker Blue Label",
+      "slug": "old",
+      "amountOfStock": 156
+    },
+    {
+      "title": "Sazerac",
+      "slug": "old",
+      "amountOfStock": 156
+    },
+    {
+      "title": "Jack Daniel'S",
+      "slug": "old",
+      "amountOfStock": 142
+    },
+    {
+      "title": "Whisky Sour",
+      "slug": "old",
+      "amountOfStock": 87
+    },
+    {
+      "title": "Mai Tai",
+      "slug": "old",
+      "amountOfStock": 205
+    },
+    {
+      "title": "Martini",
+      "slug": "old",
+      "amountOfStock": 64
+    },
+    {
+      "title": "Margarita",
+      "slug": "old",
+      "amountOfStock": 128
+    },
+    {
+      "title": "Negroni",
+      "slug": "old",
+      "amountOfStock": 93
+    },
+    {
+      "title": "Bloody Mary",
+      "slug": "old",
+      "amountOfStock": 76
+    },
+    {
+      "title": "Gin and Tonic",
+      "slug": "old",
+      "amountOfStock": 112
+    },
+    {
+      "title": "Old Fashioned",
+      "slug": "old",
+      "amountOfStock": 45
+    },
+    {
+      "title": "Cosmopolitan",
+      "slug": "old",
+      "amountOfStock": 98
+    },
+    {
+      "title": "Rum Punch",
+      "slug": "old",
+      "amountOfStock": 123
+    },
+    {
+      "title": "Chivas regal 12 anos",
+      "slug": "old",
+      "amountOfStock": 156
+    },
+    {
+      "title": "Sazerac",
+      "slug": "old",
+      "amountOfStock": 156
+    },
+    {
+      "title": "Sazerac",
+      "slug": "old",
+      "amountOfStock": 156
+    },
+    {
+      "title": "Chivas regal 18 anos",
+      "slug": "old",
+      "amountOfStock": 156
+    },
+    {
+      "title": "Sazerac",
+      "slug": "old",
+      "amountOfStock": 156
+    },
+    {
+      "title": "Whisky Fireball Canela",
+      "slug": "old",
+      "amountOfStock": 156
+    },
+    {
+      "title": "Sazerac",
+      "slug": "old",
+      "amountOfStock": 156
+    },
+    {
+      "title": "Red Label",
+      "slug": "old",
+      "amountOfStock": 156
+    },
+    {
+      "title": "Red Label",
+      "slug": "old",
+      "amountOfStock": 156
+    },
+    {
+      "id": "107e",
+      "title": "Brother's Bond Straight Bourbon Whiskey",
+      "slug": "brothers-bond-straight-bourbon-whiskey",
+      "amountOfStock": 0
+    },
+    {
+      "id": "1af2",
+      "title": "Nova tag",
+      "slug": "nova-tag",
+      "amountOfStock": 0
+    },
+    {
+      "id": "c6a4",
+      "title": "Macallan 1926",
+      "slug": "macallan-1926",
+      "amountOfStock": 0
+    },
+    {
+      "id": "d391",
+      "title": "Glenlivet 1943",
+      "slug": "glenlivet-1943",
+      "amountOfStock": 0
+    }
+  ]
 }
